@@ -1,4 +1,4 @@
-# Henlo! I'm Salman Sayeed &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![](https://visitcount.itsvg.in/api?id=salman-sayeed&icon=7&color=0)](https://visitcount.itsvg.in)
+# Henlo! I'm Salman Sayeed &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![](https://visitcount.itsvg.in/api?id=salman-sayeed&icon=7&color=0)](https://visitcount.itsvg.in)
 - A committed Computer Science student at American International University-Bangladesh
 - Keen on mastering the intricacies of web and software development
 - Actively delving into Machine Learning and Artificial Intelligence
